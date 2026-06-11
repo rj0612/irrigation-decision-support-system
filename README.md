@@ -2,7 +2,7 @@
 
 Honours thesis project — University of Technology Sydney
 Student: Rei Jiang Wong (14220103)
-Supervisor: Mingshan Jia
+Supervisor: Dr Mingshan Jia
 
 ## Overview
 A machine learning-based irrigation decision support system 
